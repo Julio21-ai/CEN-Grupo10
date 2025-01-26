@@ -10,7 +10,7 @@ int main()
 {
 	SetLocale();
 
-	int arraySize = 100;
+	int arraySize = 1000;
 	int numArrays = 2;
 	int numThreadsUsed = 0;
 
